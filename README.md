@@ -63,5 +63,5 @@ Project 2 continues EduQuest's mission of helping students build consistent, mot
 
 ## Author
 
-**Kasthoori Mohan** — A220945
+**Kasthoori Mohan** (A220945) —
 Mobile Application Programming — Instructor: Mr Nelson
